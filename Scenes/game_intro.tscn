@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://5u35xtwpgkqn"]
+
+[ext_resource type="Texture2D" uid="uid://ch1tkb0ymxnaw" path="res://Assets/Sprites/message.png" id="1_pcyia"]
+
+[node name="GameIntro" type="CanvasLayer"]
+
+[node name="GetReady" type="Sprite2D" parent="."]
+position = Vector2(150, 261.95)
+texture = ExtResource("1_pcyia")

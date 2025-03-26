@@ -12,3 +12,17 @@ A simple project to re-familiarise myself with godot and game dev as a whole
 	- Loading transitions from menus
 	- Button animations
 	- Proper game art
+- Stage 4: Polish and Post
+	- Fix any final bugs
+	- Polish anything that still feels janky
+	- Finally, Post onto ITch.io as a first reference project for my Game Dev Journey
+
+- Progress Log
+- 27/03/2025 
+	- The basic game is up and running
+	- Player controller is functional and feels good
+	- pipe spawning works well but is at a constant rate for now
+	- the collision death function and animation works as intended
+	- i did have a restart button working but have somehow borked it trying to add a game intro
+	- added looping background music
+	- Next session - repair restart button and add SFX
